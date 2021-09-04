@@ -1,0 +1,1 @@
+/var/www/html/magento/app/code/Magento/AdminAnalytics/view/adminhtml/web/js/modal/component.js
